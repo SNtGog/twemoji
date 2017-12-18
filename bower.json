@@ -7,7 +7,7 @@
     "/assets/",
     "/svg/"
   ],
-  "twemoji": "git://github.com/twitter/twemoji.git#gh-pages",
+  "twemoji": "git://github.com/SNtGog/twemoji.git",
   "homepage": "https://github.com/twitter/twemoji",
   "authors": [
     "Twitter, Inc."
