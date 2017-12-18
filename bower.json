@@ -5,9 +5,11 @@
   "ignore": [
     "*",
     "!2/72x72/*",
+    "!2/36x36/*",
     "!2/svg/*",
     "!2/twemoji.js",
     "!2/twemoji.*.js",
+    "!36x36/*",
     "!package.json",
     "!LICENSE",
     "!README.md"
