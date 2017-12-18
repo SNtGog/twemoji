@@ -3,16 +3,9 @@
   "description": "A Unicode standard based way to implement emoji across all platforms.",
   "main": "./2/twemoji.amd.js",
   "ignore": [
-    "*",
-    "!2/72x72/*",
-    "!2/36x36/*",
-    "!2/svg/*",
-    "!2/twemoji.js",
-    "!2/twemoji.*.js",
-    "!36x36/*",
-    "!package.json",
-    "!LICENSE",
-    "!README.md"
+    "/1/",
+    "/assets/",
+    "/svg/"
   ],
   "twemoji": "git://github.com/twitter/twemoji.git#gh-pages",
   "homepage": "https://github.com/twitter/twemoji",
